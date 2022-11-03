@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React V2
+         Coucou Ceci Fonctionne 2
         </a>
       </header>
     </div>
