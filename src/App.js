@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ceci est ma branch feature2 
+          Ceci est ma branch feature2
         </a>
       </header>
     </div>
